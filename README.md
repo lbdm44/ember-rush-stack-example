@@ -1,0 +1,1 @@
+# ember-rush-stack-example
